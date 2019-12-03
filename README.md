@@ -1,5 +1,7 @@
 # 资源网络共享
 
+[Windows下载](https://github.com/daleyshek/local-share/releases/tag/1)
+
 ## 主要功能
 
 将电脑的大型文件通过HTTP网页链接进行分享。  
